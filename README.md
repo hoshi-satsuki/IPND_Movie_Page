@@ -14,3 +14,5 @@ of the movie.
 In case of a series the webpage shows the poster, the title and some information
 on the content of that series. It also shows a list of seasons. If you click
 one of the seasons it will show the trailer or the intro of that season.
+
+This project has been part of the Introduction to Programming Nanodegree by Udacity.
